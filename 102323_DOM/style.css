@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+#title {
+    color: red;
+}
+
+#sky {
+    color: blue;
+}
+
+.increase-Font-Size {
+    font-size: 3rem;
+}
+
+.purple {
+    color: purple;
+}

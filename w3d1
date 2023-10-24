@@ -1,0 +1,5 @@
+let x = computeArea (4,3);
+
+function computeArea x,y {
+    return x*y
+}
